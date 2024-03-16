@@ -56,7 +56,7 @@ Here are some of the key skills I possess:
 
 - LinkedIn: [https://www.linkedin.com/in/laleh-haidari](link_to_linkedin_profile)
 - Email: laleh.heidary@gmail.com
-- Portfolio: [https://insightstechpro.com/](link_to_portfolio_website)
+- Personal website: [https://insightstechpro.com/](link_to_portfolio_website)
 
 ## Let's Connect
 
