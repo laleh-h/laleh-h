@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 
 Hi there! I'm Laleh, a passionate data enthusiast with a keen interest in data analytics, machine learning, and data visualization. I love exploring and analyzing data to uncover insights and drive informed decision-making.
 
-<!-- ## Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
+[To be Added]
+
+<!-- 
 ### [Project 1: Project Name](link_to_project_1)
 - Description: Brief description of the project.
 - Technologies Used: List of technologies/languages used (e.g., Python, SQL, Tableau).
